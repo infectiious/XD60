@@ -1,4 +1,4 @@
-Keymaps for using XD60 with QMK_Firmware (https://github.com/qmk/qmk_firmware).
+Keymap for use with XD60 PCB from Taobao running QMK_Firmware (https://github.com/qmk/qmk_firmware).
 
 ```
 Base Layer
@@ -13,8 +13,8 @@ Base Layer
    '---.------.------.------.--------------------.------.------.------.------.--'------'
        | Ctrl | GUI  | Alt  |        Space       | Alt  | GUI  |  Fn  | Ctrl |
        '------'------'------'--------------------'------'------'------'------'
-
-
+```
+```
 Function Layer
 .------.------.------.------.------.------.------.------.------.------.------.------.------.------.
 |   `  |  F1  |  F2  |  F3  |  F4  |  F5  |  F6  |  F7  |  F8  |  F9  |  F10 |  F11 |  F12  | Del |
