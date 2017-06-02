@@ -31,7 +31,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 * |------+------+------+------+------+------+------+------+------+------+------+------+------+------|
 * |      |      |  Up  |      |      |      |      |      |      |      |  Ins | Pause| PScr |      |
 * '--.---'--.---'--.---'--.---'--.---'--.---'--.---'--.---'--.---'--.---'--.---'--.---'--.---'--.---'
-*    |      | Left | Down |Right |      |      |      | Left |  Up  | Down | Right|      |Enter |
+*    |      | Left | Down |Right |      |      |      | Left | Down |  Up  | Right|      |Enter |
 *    '--.---'--.---'--.---'--.---'--.---'--.---'--.---'--.---'--.---'--.---'--.---'--.---'--.---'
 *       | Shift|      |      |      |      |      |      |      |      |      |      | PgUP |
 *       '---.------.--'---.--'---.--'------'------'---.--'---.--'---.--'---.--'---.--'------'
@@ -43,7 +43,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   KEYMAP(
       KC_GRV,   KC_F1,    KC_F2,    KC_F3,     KC_F4,    KC_F5,    KC_F6,    KC_F7,    KC_F8,    KC_F9,     KC_F10,   KC_F11,   KC_F12,   KC_DEL,   KC_NO,    \
       KC_NO,    KC_NO,    KC_UP,    KC_NO,     KC_NO,    KC_NO,    KC_NO,    KC_NO,    KC_INS,   KC_NO,     KC_PSCR,  KC_SLCK,  KC_PAUS,            KC_NO,    \
-      KC_NO,    KC_LEFT,  KC_DOWN,  KC_RIGHT,  KC_NO,    KC_NO,    KC_LEFT,  KC_UP,    KC_DOWN,  KC_RIGHT,  KC_NO,    KC_NO,    KC_NO,              KC_ENT,    \
+      KC_NO,    KC_LEFT,  KC_DOWN,  KC_RIGHT,  KC_NO,    KC_NO,    KC_LEFT,  KC_DOWN,    KC_UP,  KC_RIGHT,  KC_NO,    KC_NO,    KC_NO,              KC_ENT,    \
       KC_LSFT,  KC_NO,    KC_NO,    KC_NO,     KC_NO,    KC_NO,    KC_NO,    KC_NO,    KC_NO,    KC_NO,     KC_NO,    KC_NO,    KC_NO,    KC_PGUP,  KC_NO,      \
       KC_LCTL,  KC_LGUI,  KC_LALT,                                 KC_SPC,                                  KC_HOME,  KC_END,   KC_NO,    F(0),     KC_PGDN),
 
