@@ -1,6 +1,6 @@
-# XD60
+## XD60
 
-## Keymap for use with XD60 PCB from Taobao running QMK_Firmware (https://github.com/qmk/qmk_firmware).
+# Keymap for use with XD60 PCB from Taobao running [QMK_Firmware](https://github.com/qmk/qmk_firmware).
 
 ```
  Base Layer
