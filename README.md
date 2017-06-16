@@ -1,4 +1,6 @@
-Keymap for use with XD60 PCB from Taobao running QMK_Firmware (https://github.com/qmk/qmk_firmware).
+# XD60
+
+## Keymap for use with XD60 PCB from Taobao running QMK_Firmware (https://github.com/qmk/qmk_firmware).
 
 ```
  Base Layer
@@ -6,7 +8,7 @@ Keymap for use with XD60 PCB from Taobao running QMK_Firmware (https://github.co
  | ESC  |   1  |   2  |   3  |   4  |   5  |   6  |   7  |   8  |   9  |   0  |  -   |  =   | Bksp |
  |------+------+------+------+------+------+------+------+------+------+------+------+------+------|
  | Tab  |   Q  |   W  |   E  |   R  |   T  |   Y  |   U  |   I  |   O  |   P  |  [   |   ]  |   \  |
- '--.------.------.------.------.------.------.------.------.------.------.------.------.------.---'
+ '--.---'--.---'--.---'--.---'--.---'--.---'--.---'--.---'--.---'--.---'--.---'--.---'--.---'--.---'
     | Caps |   A  |   S  |   D  |   F  |   G  |   H  |   J  |   K  |   L  |   ;  |  '   |Enter |
     '--.------.------.------.------.------.------.------.------.------.------.------.------.---'
        | Shift|   Z  |   X  |   C  |   V  |   B  |   N  |   M  |   ,  |   .  |   /  |Shift |
